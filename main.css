@@ -133,3 +133,10 @@ input:focus, textarea:focus{
 .Links-Social li a{
     text-decoration: none;
 }
+
+footer{
+    padding: 16px 0;
+    font-family: roboto, cursive;
+    background-color: #444b5e;
+    color: azure;
+}
